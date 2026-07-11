@@ -1,0 +1,3 @@
+# The library itself is zero-dependency (stdlib only).
+# These are only needed to run the test suite.
+pytest>=8.0
